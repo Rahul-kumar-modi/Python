@@ -21,7 +21,7 @@ print(marks.get("Shivika")) #o/p-None
 print(marks.get("Monika")) #o/p-> 55
 print(marks["Monika"]) #o/p-> 55
 print(marks.get("Rohit")) #o/p-> None
-print(marks["Rohit"]) #o/p->Gives error
+# print(marks["Rohit"]) #o/p->Gives error
 
 
  
